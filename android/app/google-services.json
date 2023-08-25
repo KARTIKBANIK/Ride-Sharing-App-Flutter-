@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672440466856",
+    "project_id": "calao-app",
+    "storage_bucket": "calao-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672440466856:android:840975a398793e2843719d",
+        "android_client_info": {
+          "package_name": "com.example.ride_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672440466856-qs16mh5lo4huehu17dms6qcrb9t0a8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5W11Zp-dhN-HYx5l7Ov_qVrutI53g-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672440466856-qs16mh5lo4huehu17dms6qcrb9t0a8k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
